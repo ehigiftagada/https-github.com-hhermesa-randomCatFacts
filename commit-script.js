@@ -1,3 +1,4 @@
+cons = 1
 const { exec } = require('child_process');
 const cron = require('node-cron');
 const fs = require('fs');
